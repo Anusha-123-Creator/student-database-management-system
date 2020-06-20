@@ -477,7 +477,7 @@ case '7': {
 
 case '8':
 {
-cout<<"thankyou for using software\nCreated by ANUSHA REDDY\n";
+cout<<"thankyou for using software\nCreated by M.ANUSHA REDDY\n";
 exit(0);
 }
 }
